@@ -96,7 +96,7 @@ However, calculating their regression coefficients, I was able to get some insig
 To get an idea of how Depression, Anxiety and Stress differ in different countries, I plotted them by country. Judging by the bulk of points which appear around Malaysia, I will take an educated guess that a large percentage of the survey was answered by people in Malaysia - 66% to be exact. Because I would love the audience to come up with their own hypotheses, the graph is interactive so we can all do some eyeballing based on the densities and sizes of the points. __IMHO__ though, there is something to be said about Malaysia and USA concerning all 3 diseases. So we begin to ask ourselves what is wrong with those countries? _Does the bulk of the population coming from Malaysia influence trend on the general population?_ __I honestly hope not 😄__
 
 
-With both our hypothesis, we can each figure out which demographic most influences theses diseases by doing a sort of touch and go with each demographic in the final interactive graph.
+With both our hypothesis, we can each figure out which demographic most influences these diseases by doing a sort of touch and go with each demographic in the final interactive graph.
 
 What demographics in your opinion play the biggest role in each of the diseases? Did you decide to accept or not accept your hypothesis?
 
