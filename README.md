@@ -54,8 +54,8 @@ _(Provide more detailed overview of the project.  Talk a bit about your data sou
 
 ## Featured Notebooks/Analysis/Deliverables
 
-- [📖 Notebook 📖](https://github.com/lagom-QB/DASS/blob/gh-pages/notebooks)
-- [✨✨✨ Progress✨✨✨](https://lagom-qb.github.io/DASS/Progress)
+- [📖 Notebook 📖](https://github.com/lagom-QB/dv_dass/blob/gh-pages/notebooks)
+- [✨✨✨ Progress✨✨✨](https://lagom-qb.github.io/dv_dass/Progress)
 
 ### Technologies
 
