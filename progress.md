@@ -27,7 +27,7 @@ The data used was collected for a while up to and including 2018 and its demogra
 
 ## Process
 
-Initially, I thought it would be necessary to separate the questions into those concerning the different diseases according to the handbook taken from the site. The _type_ of Question is recorded in [http://www2.psy.unsw.edu.au/dass//Download%20files/Dass_template.pdf ](https://http://www2.psy.unsw.edu.au/dass//Download%20files/Dass_template.pdf).
+Initially, I thought it would be necessary to separate the questions into those concerning the different diseases according to the handbook taken from the site. The _type_ of Question is recorded [here](https://http://www2.psy.unsw.edu.au/dass//Download%20files/Dass_template.pdf).
 
 Then looking at the total scores of each disease for each record, I compared them to the scoring on the DASS webpage for _normal, mild, moderate, severe_ and _extemely severe_ .
 
@@ -44,7 +44,6 @@ At this point, I was asking myself what percentage of my population falls in eac
 
 ### Depression
 
-
 |                    | Depression |
 | -------------------- | ------------ |
 | _Normal_           | 0          |
@@ -58,9 +57,6 @@ At this point, I was asking myself what percentage of my population falls in eac
 
 ### Anxiety
 
-
-
-
 |                  | Anxiety |
 | ------------------ | --------- |
 | Normal           | 0       |
@@ -72,8 +68,6 @@ At this point, I was asking myself what percentage of my population falls in eac
 ![Anxiety](images/Anxiety.png)
 
 ### Stress
-
-
 
 |                  | Anxiety |
 | ------------------ | --------- |
