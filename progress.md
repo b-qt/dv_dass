@@ -1,9 +1,4 @@
----
-title: Project Progress
----
-<a href="https://www.repostatus.org/#wip"><img src="https://www.repostatus.org/badges/latest/wip.svg" alt="Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public." /></a>
-
-<!---[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)) ---->
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 
 # A look into the top mental illnesses and their influencing demopgraphics.
 
@@ -98,7 +93,9 @@ The obvious route was to make a sort of pairplots to easily identify any sort of
 
 
 
-![Pairplot](images/Pairplot.png)👎 From the graph alone, I don't know about you,  but I couldn't identify any outstanding relationships.
+![Pairplot](images/Pairplot.png)  
+  
+  👎 From the graph alone, I don't know about you,  but I couldn't identify any outstanding relationships.
 
 However, calculating their regression coefficients, I was able to get some insights on whta demographics were more important than others. All I that was left was to test my hypothesis and _decide what demographics I should have thrown out and what I did ok to leave in_.
 
