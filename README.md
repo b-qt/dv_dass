@@ -18,11 +18,11 @@ Representing this data in a way which is more engaging is important to those aff
 
 ### Methods Used
 
-* Inferential Statistics
-* Data Exploration and Manipulation
-* Data Analysis
-* Data Modelling
-* Data Visualization
+* Inferential Statistics  
+* Data Exploration and Manipulation  
+* Data Analysis  
+* Data Modelling  
+* Data Visualization  
 
 ## Project Description
 
@@ -35,16 +35,16 @@ _What would I like to know?_
 
 _Progress Report_.
 
-[X] Download the data.
-[X] Overview of the data.
-[X] Separate into Depression, Anxiety and Stress.
-[X] Calculate percentages of distributions.
-[X] Visualize each of these separately.
-[X] Look for obvious relationships.
-[X] Calculate covariance and correlation of variables.
-[X] Discard unnecessary variables.
-[X] Select a tool for visualization.
-[ ] Publish visualization.
+[X] Download the data.  
+[X] Overview of the data.  
+[X] Separate into Depression, Anxiety and Stress.  
+[X] Calculate percentages of distributions.  
+[X] Visualize each of these separately.  
+[X] Look for obvious relationships.  
+[X] Calculate covariance and correlation of variables.  
+[X] Discard unnecessary variables.  
+[X] Select a tool for visualization.  
+[ ] Publish visualization.  
 
 __Goal__
 With this project I’ll like to showcase data storytelling as a skill hoping to make more people aware of these “silent killers”.
