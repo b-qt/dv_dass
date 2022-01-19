@@ -42,8 +42,9 @@ _Progress Report_.
 [ ] Publish visualization.  
 
 __Goal__
-With this project I’ll like to showcase data storytelling as a skill hoping to make more people aware of these “silent killers”.
-_(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)_
+With this project I’ll like to make more people aware of these “silent killers”.
+I would like to know what percentage of the population is affected by what mental diseases and explore possible causes. 
+It is worth noting that these tests were carried out online so I'm not certain of how honest the participants were.
 
 ## Needs of this project
 
@@ -55,12 +56,11 @@ _(Provide more detailed overview of the project.  Talk a bit about your data sou
 ## Featured Notebooks/Analysis/Deliverables
 
 - [📖 Notebook 📖](https://github.com/lagom-QB/dv_dass/blob/gh-pages/notebooks)
-- [✨✨✨ Progress✨✨✨](https://lagom-qb.github.io/dv_dass/progress)
+- [✨ Progress✨](https://lagom-qb.github.io/dv_dass/progress)
 
 ### Technologies
 
 * Python
 * VSCode
 * Pandas, jupyter, Altair
-* HTML
 * Procreate
