@@ -52,7 +52,7 @@ At this point, I was asking myself what percentage of my population falls in eac
 | _Severe_           | 9.29%      |
 | _Extremely Severe_ | 89.76%     |
 
-![Depression](images/Depression.png)
+<img src="images/Depression.png" width="200">
 
 
 ### Anxiety
@@ -65,7 +65,7 @@ At this point, I was asking myself what percentage of my population falls in eac
 | Severe           | 0       |
 | Extremely Severe | 100     |
 
-![Anxiety](images/Anxiety.png)
+<img src="images/Anxiety.png" width="200">
 
 ### Stress
 
@@ -77,17 +77,14 @@ At this point, I was asking myself what percentage of my population falls in eac
 | Severe           | 6.53%   |
 | Extremely Severe | 92.95%  |
 
-
-![Stress](images/Stress.png)
+<img src="images/Stress.png" width="200">
 
 Knowing what percentage of people fall in each range, I went ahead to look for relationships between the demographics and these 3.
 
 
 The obvious route was to make a sort of pairplots to easily identify any sort of relationships :
 
-
-
-![Pairplot](images/Pairplot.png)  
+<img src="images/Pairplot.png" width="200">
   
   👎 From the graph alone, I don't know about you,  but I couldn't identify any outstanding relationships.
 
@@ -109,7 +106,7 @@ To get an idea of how Depression, Anxiety and Stress differ in different countri
   <script src="scripts/scripts.js" async defer>
   
   With both our hypothesis, we can each figure out which demographic most influences these diseases by doing a sort of touch and go with each demographic in the final interactive graph.
-  <div id="vis"></div>
+  <div id="vis" style="display: block; width: 50%"></div>
   <script src="scripts/scripts1.js" async defer>
     
   
