@@ -94,3 +94,25 @@ The obvious route was to make a sort of pairplots to easily identify any sort of
 However, calculating their regression coefficients, I was able to get some insights on whta demographics were more important than others. All I that was left was to test my hypothesis and _decide what demographics I should have thrown out and what I did ok to leave in_.
 
 To get an idea of how Depression, Anxiety and Stress differ in different countries, I plotted them by country. Judging by the bulk of points which appear around Malaysia, I will take an educated guess that a large percentage of the survey was answered by people in Malaysia - 66% to be exact. Because I would love the audience to come up with their own hypotheses, the graph is interactive so we can all do some eyeballing based on the densities and sizes of the points. __IMHO__ though, there is something to be said about Malaysia and USA concerning all 3 diseases. So we begin to ask ourselves what is wrong with those countries? _Does the bulk of the population coming from Malaysia influence trend on the general population?_ __I honestly hope not 😄__
+
+
+  <style>
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@4.8.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@6"></script>
+
+  <div id="vis1" style="display: block; width: 50%" ></div>
+  <script src="scripts/scripts.js" async defer>
+  
+  With both our hypothesis, we can each figure out which demographic most influences these diseases by doing a sort of touch and go with each demographic in the final interactive graph.
+  <div id="vis"></div>
+  <script src="scripts/scripts1.js" async defer>
+    
+  
+### To conclude;
+I think this was a period where having a disorder was sort of a fad and everybody wanted to one up another person. Or perhaps the survey was shown to people already diagnosed with one or all three of the diseases. Though I highly doubt that option.`
+  
