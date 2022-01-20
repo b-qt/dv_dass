@@ -84,7 +84,7 @@ Knowing what percentage of people fall in each range, I went ahead to look for r
 
 The obvious route was to make a sort of pairplots to easily identify any sort of relationships :
 
-<img src="images/Pairplot.png" width="200">
+<img src="images/Pairplot.png">
   
   👎 From the graph alone, I don't know about you,  but I couldn't identify any outstanding relationships.
 
@@ -92,24 +92,21 @@ However, calculating their regression coefficients, I was able to get some insig
 
 To get an idea of how Depression, Anxiety and Stress differ in different countries, I plotted them by country. Judging by the bulk of points which appear around Malaysia, I will take an educated guess that a large percentage of the survey was answered by people in Malaysia - 66% to be exact. Because I would love the audience to come up with their own hypotheses, the graph is interactive so we can all do some eyeballing based on the densities and sizes of the points. __IMHO__ though, there is something to be said about Malaysia and USA concerning all 3 diseases. So we begin to ask ourselves what is wrong with those countries? _Does the bulk of the population coming from Malaysia influence trend on the general population?_ __I honestly hope not 😄__
 
-
-  <style>
+<style>
     .error {
         color: red;
     }
-  </style>
-  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
-  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@4.8.1"></script>
-  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@6"></script>
+</style>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@4.8.1"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@6"></script>
 
-  <div id="vis1" style="display: block; width: 50%" ></div>
-  <script src="scripts/scripts.js" async defer>
+<div id="vis1" style="display: block; width: 50%"></div>
+<script src="scripts/scripts.js"></script>
   
-  With both our hypothesis, we can each figure out which demographic most influences these diseases by doing a sort of touch and go with each demographic in the final interactive graph.
-  <div id="vis" style="display: block; width: 50%"></div>
-  <script src="scripts/scripts1.js" async defer>
+With both our hypothesis, we can each figure out which demographic most influences these diseases by doing a sort of touch and go with each demographic in the final interactive graph.
+<div id="vis" style="display: block; width: 50%"></div>
+<script src="scripts/scripts1.js"></script>
     
-  
 ### To conclude;
-I think this was a period where having a disorder was sort of a fad and everybody wanted to one up another person. Or perhaps the survey was shown to people already diagnosed with one or all three of the diseases. Though I highly doubt that option.`
-  
+I think this was a period where having a disorder was sort of a fad and everybody wanted to one up another person. Or perhaps the survey was shown to people already diagnosed with one or all three of the diseases. Though I highly doubt that option.
