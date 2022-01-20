@@ -105,7 +105,7 @@ To get an idea of how Depression, Anxiety and Stress differ in different countri
 <script src="scripts/scripts.js"></script>
   
 With both our hypothesis, we can each figure out which demographic most influences these diseases by doing a sort of touch and go with each demographic in the final interactive graph.
-<div id="vis" style="display: block; width: 50%"></div>
+<div id="vis" style="display: block; max-width: 50%"></div>
 <script src="scripts/scripts1.js"></script>
     
 ### To conclude;
