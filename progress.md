@@ -101,12 +101,16 @@ To get an idea of how Depression, Anxiety and Stress differ in different countri
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@4.8.1"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@6"></script>
 
-<div id="vis1" style="display: block; width: 50%"></div>
-<script src="scripts/scripts.js"></script>
+<div id="vis1" style="display: block; width: 50%">
+  <script src="scripts/scripts.js"></script>
+</div>
+
   
 With both our hypothesis, we can each figure out which demographic most influences these diseases by doing a sort of touch and go with each demographic in the final interactive graph.
-<div id="vis" style="display: block; max-width: 50%"></div>
-<script src="scripts/scripts1.js"></script>
+<div id="vis" style="display: block; max-width: 50%">
+  <script src="scripts/scripts1.js"></script>
+</div>
+
     
 ### To conclude;
 I think this was a period where having a disorder was sort of a fad and everybody wanted to one up another person. Or perhaps the survey was shown to people already diagnosed with one or all three of the diseases. Though I highly doubt that option.
