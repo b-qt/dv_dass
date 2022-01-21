@@ -111,6 +111,5 @@ With both our hypothesis, we can each figure out which demographic most influenc
   <script src="scripts/scripts1.js"></script>
 </div>
 
-    
 ### To conclude;
 I think this was a period where having a disorder was sort of a fad and everybody wanted to one up another person. Or perhaps the survey was shown to people already diagnosed with one or all three of the diseases. Though I highly doubt that option.
